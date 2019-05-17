@@ -1,0 +1,10 @@
+C:\Users\Main\source\repos\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\Main\source\repos\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\Main\source\repos\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\Main\source\repos\ClientApp\ClientApp\obj\Debug\ClientApp.csprojAssemblyReference.cache
+C:\Users\Main\source\repos\ClientApp\ClientApp\obj\Debug\ClientApp.Form1.resources
+C:\Users\Main\source\repos\ClientApp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\Main\source\repos\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+C:\Users\Main\source\repos\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Main\source\repos\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\Main\source\repos\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
